@@ -1,0 +1,6 @@
+@KegTracker.API_HostAddress = http://localhost:5100
+
+GET {{KegTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
